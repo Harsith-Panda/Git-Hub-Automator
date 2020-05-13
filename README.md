@@ -9,7 +9,7 @@ Clone or Download this repository then extract this file.
 
 Double Click the file if you r using windows or else intergrate it with your linux or mac terminal........
 
-The command to intergrate it is : alias <command you desire>='python create.py'
+The command to intergrate it is : alias (command you desire)='python create.py'
 
 Make sure you have this file in your home directory
 
