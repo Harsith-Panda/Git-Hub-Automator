@@ -5,9 +5,9 @@ from selenium import webdriver
 browser = webdriver.Chrome(executable_path= '/home/harsith-developer/Documents/driver/chromedriver')
 browser.get('https://github.com/login')
 
-browser.find_element_by_id("login_field").send_keys('Harsith-panda')
+browser.find_element_by_id("login_field").send_keys('github-usernamae')
 
-browser.find_element_by_id("password").send_keys('harsith-developer')
+browser.find_element_by_id("password").send_keys('github-password')
 
 browser.find_element_by_name("commit").click()
 
